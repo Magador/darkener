@@ -1,0 +1,14 @@
+* {
+        margin: 0;
+        padding: 0;
+      }
+    
+      p {
+        background-color: #EEEEEE;
+        color: rgba(0, 0, 138, 0.5);
+      }
+      
+      p.darken {
+        background: black;
+        color: hsla(240, 100%, 73%, 1);
+      }
